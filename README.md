@@ -11,7 +11,7 @@ Spectrums is a Python utility that allows you to create beautiful color palettes
 - Sorts colors based on a custom ranking that considers hue, saturation, and perceived brightness.
 - Provides a graphical representation of the generated color palette.
 
-![K Means vs GMMs]([https://github.com/XAheli/Spectrums/blob/main/Spectrums%20photo-to-palette.png](https://github.com/XAheli/Spectrums/blob/main/k-means%2Band%2BGaussian%2BMixture%2BModel%2B(GMM)..jpg))
+![K Means vs GMMs](https://github.com/XAheli/Spectrums/blob/main/k-means%2Band%2BGaussian%2BMixture%2BModel%2B(GMM)..jpg)
 
 ## Prerequisites
 - Python 3.9
